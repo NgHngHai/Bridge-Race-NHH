@@ -47,14 +47,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _CloudEdge: 1
-    - _CloudHeight: 0.9
+    - _CloudHeight: 0.5
     - _HorizonOffset: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _WindSpeed: 0.2
     m_Colors:
-    - _HorizonColor: {r: 0.060640786, g: 0.47607592, b: 0.6301887, a: 1}
-    - _SkyColor: {r: 0, g: 0.15294755, b: 0.79622644, a: 1}
+    - _HorizonColor: {r: 0.21861874, g: 0.29236656, b: 0.4339623, a: 1}
+    - _SkyColor: {r: 0.07850983, g: 0.03765749, b: 0.4641509, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &5140567800239583567
