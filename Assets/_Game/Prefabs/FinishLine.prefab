@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8653880730934251119}
   - component: {fileID: 5077076199438982263}
   - component: {fileID: 6563222252737715878}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 1stPlace
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
@@ -82,7 +82,7 @@ GameObject:
   - component: {fileID: 871090658834889324}
   - component: {fileID: 2763163933397497299}
   - component: {fileID: 1952813753889443862}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: Podium2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -373,7 +373,7 @@ GameObject:
   - component: {fileID: 7467773524723674133}
   - component: {fileID: 4773645667054302543}
   - component: {fileID: 5578429198623300208}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 3rdPlace
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
@@ -840,7 +840,7 @@ GameObject:
   - component: {fileID: 8895166861270335685}
   - component: {fileID: 965845988247629419}
   - component: {fileID: 7593128476854164895}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: Podium3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -950,7 +950,7 @@ GameObject:
   - component: {fileID: 6024871503118893062}
   - component: {fileID: 495191049207822133}
   - component: {fileID: 104581597709331184}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: FinishLine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1021,7 +1021,7 @@ GameObject:
   - component: {fileID: 4820012669328511720}
   - component: {fileID: 1708843421826561387}
   - component: {fileID: 3226205431801408989}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: Podium1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1111,7 +1111,7 @@ GameObject:
   - component: {fileID: 7854966907792108652}
   - component: {fileID: 6765523295730019465}
   - component: {fileID: 7454743029402453767}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 2ndPlace
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
