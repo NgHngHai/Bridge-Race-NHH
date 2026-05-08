@@ -40,13 +40,20 @@ public class Enemy : Character
     public override void OnWin(int placement, Vector3 podiumPos)
     {
         base.OnWin(placement, podiumPos);
-        ChangeState(new FinishState(placement == 1));
+        if (placement == 1)
+        {
+            ChangeState(new WinState());
+        }
+        else
+        {
+            ChangeState(new LoseState());
+        }
     }
 
     public override void OnLose()
     {
         base.OnLose();
-        ChangeState(new FinishState(false));
+        ChangeState(new LoseState());
     }
 
     public bool FindBrick()
@@ -165,6 +172,6 @@ public class Enemy : Character
 
     private void RandomAcceleration()
     {
-        agent.acceleration = Random.Range(5f, 12f);
+        agent.acceleration = Random.Range(7f, 12f);
     }
 }
